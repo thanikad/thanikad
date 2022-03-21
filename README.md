@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thanikad and have more than 15 years of software development experience. 
 - 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning React native
-- 💞️ I’m looking to collaborate on ecommerce project using React Native 
+- 🌱 I’m currently working on Flutter
+- 💞️ I’m looking to collaborate on ecommerce project using Flutter or React Native 
 - 📫 You can email me at thanikad@gmail.com
 
 <!---
